@@ -4,6 +4,8 @@
 
 Thank you for choosing to contribute to the improvement of our Multi-Signature Tool. This repository serves as the official issue tracker for reporting bugs, suggesting enhancements, and discussing various aspects related to the functionality and usage of our multi-signature solution.
 
+https://xumm.app/detect/xapp:xumm.multisign
+
 ## Getting Started
 
 ### How to Report an Issue or Request a Feature
